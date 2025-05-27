@@ -3,6 +3,9 @@
 Author: **Jules GOMEL**  
 Year: **2025**
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15525420.svg)](https://doi.org/10.5281/zenodo.15525420)
+
 ## Overview
 
 This repository contains code to practice SSVEP (Steady-State Visually Evoked Potential) signal-to-noise ratio (SNR) computation based on EEG data from **Ladouce et al. (2022)**:
