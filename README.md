@@ -30,7 +30,7 @@ The signal-to-noise ratio (SNR) is calculated by comparing the power at a target
 - Matplotlib (optional for plotting)
 - MNE (optional if working directly with EEG files)
 
-Install dependencies with:
+### TO DO
 
-```bash
-pip install -r requirements.txt
+- Requirements
+- environment file in yaml
